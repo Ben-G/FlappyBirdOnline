@@ -62,4 +62,12 @@
     return [CCBReader loadAsScene:@"MainScene"];
 }
 
++(int) Main
+{
+    @autoreleasepool {
+        int retVal = UIApplicationMain(nil, nil, nil, @"AppController");
+        return retVal;
+    }
+}
+
 @end

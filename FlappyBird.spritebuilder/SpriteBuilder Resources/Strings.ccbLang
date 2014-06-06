@@ -3,9 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>activeLanguages</key>
-	<array>
-		<string>en</string>
-	</array>
+	<array/>
 	<key>fileType</key>
 	<string>SpriteBuilderTranslations</string>
 	<key>fileVersion</key>
